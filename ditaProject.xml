@@ -12,7 +12,7 @@
     </deliverable>
     <deliverable id="PDF-1688566328540" name="PDF-edited">
         <context idref="pub_1"/>
-        <output href="pdf-output"/>
+        <output href="webhelp-output"/>
         <publication id="pdf" transtype="pdf-css-html5"/>
     </deliverable>
 </project>
