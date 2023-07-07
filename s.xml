@@ -4,7 +4,8 @@
 <article xmlns="http://docbook.org/ns/docbook"
     xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <info>
-        <title>gjhhjk<emphasis role="underline"/>s</title>
+        <title>gjhhjk<emphasis role="underline"><emphasis role="bold"/><emphasis role="bold"
+                /></emphasis>s</title>
         <author>
             <orgname/>
             <address>
